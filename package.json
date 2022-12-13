@@ -14,7 +14,7 @@
     "@react-navigation/native": "^5.7.1",
     "@types/styled-components": "^5.1.1",
     "conventional-changelog-conventionalcommits": "^4.3.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "git-conventional-commits": "^1.0.6",
     "react": "16.13.1",
     "react-native": "0.63.0",
